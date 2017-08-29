@@ -1,5 +1,9 @@
 # Nylas Mail Changelog
 
+### 2.0.19 (8/29/2017)
+
+  + test
+
 ### 2.0.18 (8/29/2017)
 
   + test
