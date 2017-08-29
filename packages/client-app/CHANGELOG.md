@@ -1,5 +1,17 @@
 # Nylas Mail Changelog
 
+### 2.0.16 (8/29/2017)
+
+  + Merge remote-tracking branch 'private/for-merging'
+  + [client-sync] Correctly pass path when processing bodies
+  + Merge remote-tracking branch 'private/for-merging' into merge-private
+  + [\*] postinstall: Don't try to link cloud specs if pkgs don't exist
+  + [\*] Postinstall should install client-sync regardless of private plugins
+  + [client-app, client-sync] Move messages out of db into compressed flat files
+  + Fix broken image url in README.md (#3349)
+  + Merge private repo
+  + [client-app] Fix benchmark mode
+
 ### 2.0.15 (4/17/2017)
 
   + Correctly handle and inform users about database malformed errors that can
