@@ -10,6 +10,9 @@ import TableDataSource from './table-data-source'
  * The only required prop is `tableDataSource` which must be an instance of
  * {TableDataSource}:
  *
+ *
+ *
+ * oh lalala 
  * ```
  * const tableDataSource = new TableDataSource()
  * tableDataSource.rows()
