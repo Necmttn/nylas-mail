@@ -1,5 +1,9 @@
 # Nylas Mail Changelog
 
+### 2.0.17 (8/29/2017)
+
+
+
 ### 2.0.16 (8/29/2017)
 
   + Merge remote-tracking branch 'private/for-merging'
